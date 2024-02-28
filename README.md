@@ -1,7 +1,5 @@
 Hi There 👋
 
-I'm Dfr!
-
-🌱 I’m currently learning React.js
-
-A passionate frontend developer from +62
+I'm Dfr! </br>
+🌱 I’m currently learning React.js </br>
+A passionate frontend developer from +62 </br>
